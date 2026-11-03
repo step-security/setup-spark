@@ -18,7 +18,7 @@
   "devDependencies": {
     "@types/node": "^22.8.4",
     "@typescript-eslint/eslint-plugin": "^8.12.2",
-    "@typescript-eslint/parser": "^8.12.2",
+    "@typescript-eslint/parser": "^8.72.1",
     "@vercel/ncc": "^0.38.2",
     "auto-changelog": "^2.5.0",
     "eslint": "^8.57.1",
