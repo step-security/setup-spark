@@ -19,7 +19,7 @@ on:
     - cron: '0 0 * * 1'
 
 jobs:
-  audit-fix-v3-11-0:
+  audit-fix-v1-2-1:
     uses: step-security/reusable-workflows/.github/workflows/audit_fix.yml@v1
     with:
       force: ${{ inputs.force || false }}
