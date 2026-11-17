@@ -51,7 +51,6 @@ You can also define various options, such as providing a specific URL to downloa
     xms: '1024M'
     xmx: '2048M'
     log-level: 'debug'
-    install-folder: '/home/runner/work'
 ```
 
 ## ️🏷️ Available versions
